@@ -1,6 +1,6 @@
 # Cloud Run CEP
 
-URL NA CLOUD RUN : https://avaliacao-pos-709409355709.us-central1.run.app/weather/01310-100
+
 
 Sistema em Go que recebe um CEP, identifica a cidade e retorna o clima atual (temperatura em graus Celsius, Fahrenheit e Kelvin). Publicado no Google Cloud Run.
 
